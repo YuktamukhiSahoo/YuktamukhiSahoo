@@ -7,6 +7,9 @@ I learn in sdi
 <br>
 go to classroom
 
+<br>
+go to home
+
 <!--
 **YuktamukhiSahoo/YuktamukhiSahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
